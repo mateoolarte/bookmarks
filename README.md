@@ -15,10 +15,12 @@ To keep track of the things that I learned I will create a branch for every mont
 ### Topics to cover
 
 - Testing javascript apps
+- Data structures & Algorithms
 
 ### Courses
 
 - [x] [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
+- [ ] [Four Semesters of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
 
 ### Articles
 
@@ -39,3 +41,4 @@ To keep track of the things that I learned I will create a branch for every mont
 
 - [ ] [an overview of javascript testing in 2020](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870)
 - [ ] [Assert(js) Conf 2018](https://www.youtube.com/playlist?list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw)
+- Practice on [LeetCode](https://leetcode.com/) & [HackerRank](https://www.hackerrank.com/)
