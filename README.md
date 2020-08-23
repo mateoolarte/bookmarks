@@ -10,6 +10,10 @@ When you are searching to learn a new technology you feel overwhelmed about all 
 
 To keep track of the things that I learned I will create a branch for every month and put in the `README.md` the resources that I look through
 
+## TODO
+
+- [ ] Add folders with categories
+
 ## August 2020
 
 ### Topics to cover
