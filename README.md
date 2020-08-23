@@ -14,16 +14,6 @@ To keep track of the things that I learned I will create a branch for every mont
 
 - [ ] Add folders with categories
 
-## June 2020
+## July 2020
 
-### Topics to cover
-
-- Fundamentals main concepts Javascript
-- Fundamentals about Javascript testing
-- Fundamentals about Redux
-
-### Courses
-
-- [x] [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
-- [x] [Testing Javascript applications v2](https://frontendmasters.com/courses/testing-react/)
-- [ ] [State management: Redux & Mobx](https://frontendmasters.com/courses/redux-mobx/)
+Taking a break
