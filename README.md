@@ -35,15 +35,8 @@ To keep track of the things that I learned I will create a branch for every mont
 - [x] [but really, what is a javascript test?](https://kentcdodds.com/blog/but-really-what-is-a-javascript-test)
 - [x] [but really, what is a javascript mock?](https://kentcdodds.com/blog/but-really-what-is-a-javascript-mock)
 - [x] [why i changed the way i think about code quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68)
-- [ ] [an in-depth beginner's guide to testing react applications](https://jkettmann.com/beginners-guide-to-testing-react/)
-- [ ] [the practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
-- [ ] [mocks aren't stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-- [ ] [stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch)
-- [ ] [effective snapshot testing](https://kentcdodds.com/blog/effective-snapshot-testing)
 
 ### Resources
 
-- [ ] [an overview of javascript testing in 2020](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870)
-- [ ] [Assert(js) Conf 2018](https://www.youtube.com/playlist?list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw)
+- [x] [Assert(js) Conf 2018](https://www.youtube.com/playlist?list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw)
 - Practice on [LeetCode](https://leetcode.com/) & [HackerRank](https://www.hackerrank.com/)
-
