@@ -20,6 +20,7 @@ To keep track of the things that I learned I will create a branch for every mont
 
 - Data structures & Algorithms
 - Typescript
+- Firebase
 
 ### Courses
 
