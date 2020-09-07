@@ -32,4 +32,4 @@ To keep track of the things that I learned I will create a branch for every mont
 
 ### Resources
 
-- [ ]
+- [ ] [Typescript exercises](https://typescript-exercises.github.io/)
