@@ -20,15 +20,10 @@ To keep track of the things that I learned I will create a branch for every mont
 
 - Data structures & Algorithms
 - Typescript
-- Firebase
 
 ### Courses
 
 - [ ] [Four Semesters of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
-
-### Articles
-
-- [ ]
 
 ### Resources
 
