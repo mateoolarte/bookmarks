@@ -19,17 +19,7 @@ To keep track of the things that I learned I will create a branch for every mont
 ### Topics to cover
 
 - Data structures & Algorithms
-- Typescript
 
 ### Courses
 
-- [ ] [Four Semesters of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
-- [ ] [TypeScript 3 Fundamentals, v2](https://frontendmasters.com/courses/typescript-v2/)
-
-### Articles
-
--
-
-### Resources
-
-- [ ] [Typescript exercises](https://typescript-exercises.github.io/)
+- [x] [Four Semesters of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
