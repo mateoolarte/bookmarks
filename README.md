@@ -14,17 +14,16 @@ To keep track of the things that I learned I will create a branch for every mont
 
 - [ ] Add folders with categories
 
-## October 2020
+## November 2020
 
 ### Topics to cover
 
-- Data structures & Algorithms
 - Typescript
 
 ### Courses
 
-- [ ] [Four Semesters of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
-- [ ] [TypeScript 3 Fundamentals, v2](https://frontendmasters.com/courses/typescript-v2/)
+- [ ]
+
 
 ### Articles
 
