@@ -12,7 +12,7 @@ To keep track of the things that I learned I will create a branch for every mont
 
 ## TODO
 
-- [ ] Add folders with categories
+-
 
 ## November 2020
 
@@ -22,7 +22,7 @@ To keep track of the things that I learned I will create a branch for every mont
 
 ### Courses
 
-- [ ]
+-
 
 
 ### Articles
