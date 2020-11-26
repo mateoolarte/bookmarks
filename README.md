@@ -8,9 +8,9 @@ When you are searching to learn a new technology you feel overwhelmed about all 
 
 ## How this works
 
-To keep track of the things that I learned I will create a branch for every month and put in the `README.md` the resources that I look through
+To keep track of the things that I learned I will create a branch for every month and put in the README.md` the resources that I look through
 
-*_Updated 26 Nov 2020:_* _I will make an update about how this repository will work so I will not keep track of every month with branches and replace them with the Lastest thing that I learned and register by commits in which date I start doing that_
+**_Updated 26 Nov 2020:_** _I will make an update about how this repository will work so I will not keep track of every month with branches and replace them with the Lastest thing that I learned and register by commits in which date I start doing that_
 
 ## TODO
 
