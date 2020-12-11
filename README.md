@@ -12,21 +12,24 @@ To keep track of the things that I learned I will create a branch for every mont
 
 **_Updated 26 Nov 2020:_** _I will make an update about how this repository will work so I will not keep track of every month with branches and replace them with the Lastest thing that I learned and register by commits in which date I start doing that_
 
-## TODO
+**_Updated 11 Dec 2020:_** _I will go back to month branches so I can see in a more organized way what kind of things I learned through the month_
+
+## ROADMAP
 
 -
 
 ## Lastest things that I learned
 
 - Remote work culture
+- cli apps with Nodejs
+
 ### Courses
 
 -
 
-
 ### Articles
 
--
+- [How to build a CLI with Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js)
 
 ### Resources
 
